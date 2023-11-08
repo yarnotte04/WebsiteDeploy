@@ -1,0 +1,231 @@
+html{
+font-family: 'Times New Roman', Times, serif;
+font-size: 17px;
+color: rgb(40, 40, 40);
+background-color: white;
+scroll-behavior: smooth;
+}
+
+body{
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+background-color:beige;
+}
+
+.nav{
+border: black solid 2px;
+width:324px;
+height: 50px;
+text-align: center;
+background-color:#60ce67;
+display: inline-block;
+}
+
+#link{
+color:rgb(40, 40, 40);
+text-decoration: none;
+border: 0px solid;
+border-radius: 5px;
+}
+
+#link:hover{
+color:greenyellow;
+background-color: rgb(1, 109, 5);
+}
+
+#nav,table{
+border-spacing: 5px 0;
+}
+
+footer{
+text-align: center;
+padding-bottom: 3px;
+color: rgb(16, 88, 222);
+background-color: rgb(184, 213, 238);
+font-size: smaller;
+}
+
+#topside{
+text-align: center;
+background-image: url(../images/green-forest-woods-trails-pathway-sun-rays-glade-scenery-3440x1440-5696.jpg);
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;  
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box;
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+}
+  
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width:100%;
+}
+  
+#rightSide{
+width:800px;
+padding-left: 25px;
+border-left: 3px solid;
+padding-left: 35px;
+}
+
+#leftSide{
+width:400px;
+height:100%;
+padding: 12px;  
+}
+
+#textLeft{
+text-align: right;
+padding-right: 25px;
+}
+
+.arrowUp{
+width: 20px;
+height: 20px;
+}
+
+#section1{
+padding: 25px;
+background-color: bisque;
+}
+
+#section2{
+padding: 25px;
+background-color:  blanchedalmond;
+}
+
+#section3{
+padding: 25px;
+background-color: #e1dddd;
+}
+
+#section4{
+padding: 25px;
+background-color: whitesmoke;
+}
+
+.H4{
+color:#04AA6D;
+accent-color: blue;
+}
+
+.Logo{
+width: 150px;
+height: 100px;
+float:right;
+border: 1px solid;
+border-radius: 2px;
+}
+
+.globalWarm{
+width: 450px;
+height: 300px;
+float:right;
+border: 1px solid;
+border-radius: 2px;
+}
+
+h2{
+accent-color: rgb(85, 84, 84);
+}
+
+#text1{
+font-size: larger;
+}
+
+#text2{
+font-size: larger;
+}
+
+#text3{
+font-size: larger;
+}
+
+#text4{
+font-size: larger;
+ }
+
+b{
+    color:green;
+}
+
+.firstBold{
+float:right;
+}
+
+#invis{
+visibility: hidden;
+}
+
+#icon1{
+color:white;
+background-color: #04AA6D;
+width:60px;
+height:30px;
+text-align: center;
+padding:11px;
+}
+
+#icon2{
+color:white;
+background-color: #04AA6D;
+width:60px;
+height:30px;
+text-align: center;
+padding:10px;
+}
+
+#icon3{
+color:white;
+background-color: #04AA6D;
+width:60px;
+height:30px;
+text-align: center;
+padding:10px;
+}
+
+#iconsLeft{  
+padding-top: 19px;
+padding-left: 30px;
+float:right;
+}
+
+#iconsPosRight{
+display: flex;
+}
+
+#iconsLeft2{  
+padding-top: 19px;
+padding-left: 10px;
+float:right;
+}
+
+#socialMedia{
+padding-right: 25px;
+}
+
+.CombatGlobal{
+width: 450px;
+height: 300px;
+float:right;
+border: 1px solid;
+border-radius: 2px;
+}
+
+.contact{
+width: 250px;
+height: 150px;
+float:right;
+border: 1px solid;
+border-radius: 2px;
+}
